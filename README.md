@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LEOaixin.
+- 👋 Hi, I’m @Leo_Xin.
 - 👀 I’m interested in write code.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Study.
